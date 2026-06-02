@@ -32,3 +32,18 @@ A machine learning project that predicts disease categories using nutritional an
 * Streamlit Web Application
 * Multi-label disease prediction
 * Advanced recommendation algorithms
+
+## Web Application
+
+The project includes an interactive Streamlit web application that allows users to:
+
+* Enter nutritional and lifestyle information
+* Predict disease categories using a Random Forest model
+* Receive personalized meal recommendations
+
+### Run Locally
+
+```bash
+cd src
+streamlit run app.py
+```
